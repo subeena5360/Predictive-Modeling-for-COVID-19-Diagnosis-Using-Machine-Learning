@@ -1,0 +1,1 @@
+"In this project, I developed a machine learning model to predict COVID-19 diagnoses based on patient data, including symptoms, demographic factors, and known contacts. By analyzing this data, the model aims to assist in early detection and decision-making, contributing to improved healthcare response and resource allocation during the pandemic."
